@@ -23,7 +23,7 @@
 
 # Automatic Install Node Guide
 ```bash
-wget -O bonus.sh https://raw.githubusercontent.com/nadi555/Ternode/main/bonusblock/bonus.sh && chmod +x bonus.sh && ./bonus.sh
+wget -O bonus.sh https://raw.githubusercontent.com/nurulihsan27/main/bonusblock/bonus.sh && chmod +x bonus.sh && ./bonus.sh
 ```
 
 ## Snapshoot
